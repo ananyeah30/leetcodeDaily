@@ -1,4 +1,6 @@
+
 Question: https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/
+
 class Solution:
     def amountOfTime(self, root: Optional[TreeNode], start: int) -> int:
         def dfs(node):
