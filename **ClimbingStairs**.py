@@ -1,6 +1,7 @@
+
+
+
 https://leetcode.com/problems/climbing-stairs/submissions/1150032110/?envType=daily-question&envId=2024-01-18
-
-
 class Solution:
     def climbStairs(self, n: int) -> int:
         ways = 1
