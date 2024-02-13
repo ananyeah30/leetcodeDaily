@@ -1,6 +1,4 @@
 Question: https://leetcode.com/problems/range-sum-of-bst/description/
-
-
 class Solution:
     def rangeSumBST(self, root: Optional[TreeNode], low: int, high: int) -> int:
         def dfs(node):
