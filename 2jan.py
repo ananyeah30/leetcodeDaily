@@ -1,5 +1,5 @@
-Valid Palindrome :https://leetcode.com/problems/valid-palindrome/
 
+Valid Palindrome :https://leetcode.com/problems/valid-palindrome/
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         lowercase=s.lower()
