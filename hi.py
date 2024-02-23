@@ -1,6 +1,5 @@
+
 https://leetcode.com/problems/insert-delete-getrandom-o1/submissions/1148100908/
-
-
 import random
 
 class RandomizedSet:
