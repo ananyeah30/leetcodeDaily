@@ -1,3 +1,6 @@
+
+
+
 class Solution:
     def divideArray(self, nums, k):
         size = len(nums)
