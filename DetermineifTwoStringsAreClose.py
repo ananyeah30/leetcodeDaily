@@ -1,6 +1,4 @@
 question : https://leetcode.com/problems/determine-if-two-strings-are-close/submissions/1146229897/
-
-
 class Solution:
     def closeStrings(self, word1: str, word2: str) -> bool:
         freq1 = [0] * 26
