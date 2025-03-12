@@ -4,6 +4,7 @@ class Solution:
     def amountOfTime(self, root: Optional[TreeNode], start: int) -> int:
         def dfs(node):
             if node is None:
+             
                 return
             if node.left:
                 graph[node.val].append(node.left.val)
