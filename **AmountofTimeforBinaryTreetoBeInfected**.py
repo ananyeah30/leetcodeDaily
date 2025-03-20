@@ -6,6 +6,8 @@ class Solution:
             if node is None:
              
                 return
+
+            
             if node.left:
                 graph[node.val].append(node.left.val)
                 graph[node.left.val].append(node.val)
